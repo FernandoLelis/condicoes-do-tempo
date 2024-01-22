@@ -15,7 +15,7 @@ body {
 }
 
 main {
-  padding: 2rem;
+  padding: 1.5rem;
   background-color: #333;
   border-radius: 10px;
 
@@ -27,9 +27,9 @@ main > h1 {
   margin-bottom: 2rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   main > h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 1rem;
   }
 }
