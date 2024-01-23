@@ -14,6 +14,15 @@ body {
   align-items: center;
 }
 
+@media (max-width: 600px) {
+  body {
+    color: white;
+    height: 30vh;
+    max-width: 95%;
+    margin: 20px;
+  }
+}
+
 main {
   padding: 1.5rem;
   background-color: #333;
